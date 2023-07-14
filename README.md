@@ -1,8 +1,8 @@
-add GAME.html 
-add GAME.css
-add GAME1.css
-add configuration.css
-add GAME2.CSS
-add game1.js
-add config.js
-add GAME.js
+added GAME.html 
+added GAME.css
+added GAME1.css
+added configuration.css
+added GAME2.CSS
+added game1.js
+added config.js
+added GAME.js
